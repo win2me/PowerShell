@@ -48,7 +48,7 @@
             Description
             -----------
             Returns all folders under the users folder, excluding C:\Users\SomeUser\AppData\Local\Microsoft\ and all subdirectories
-
+            Returns all folders
         .INPUTS
             System.String
     
